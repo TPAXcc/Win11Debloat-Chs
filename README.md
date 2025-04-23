@@ -1,3 +1,5 @@
+# 此仓库为 Win11Debloat中文翻译版
+---
 # Win11Debloat
 
 Win11Debloat is a simple, easy to use and lightweight PowerShell script that can remove pre-installed Windows bloatware apps, disable telemetry and declutter the experience by disabling or removing intrusive interface elements, ads and more. No need to painstakingly go through all the settings yourself or remove apps one by one. Win11Debloat makes the process quick and easy!
@@ -23,7 +25,7 @@ The script also includes many features that system administrators will enjoy. Su
 #### Telemetry, Tracking & Suggested Content
 
 - Disable telemetry, diagnostic data, activity history, app-launch tracking & targeted ads.
-- Disable tips, tricks, suggestions and ads in start, settings, notifications, File Explorer, and on the lockscreen.
+- Disable tips, tricks, suggestions and ads in start, settings, notifications, File Explorer, 和 on the lockscreen.
 - Disable the 'Windows Spotlight' desktop background option.
 
 #### Bing Web Search, Copilot & More
